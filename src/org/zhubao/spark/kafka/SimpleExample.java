@@ -1,4 +1,5 @@
-package org.zhubao.kafka;
+package org.zhubao.spark.kafka;
+/*package org.zhubao.kafka;
 import kafka.api.FetchRequest;
 import kafka.api.FetchRequestBuilder;
 import kafka.api.PartitionOffsetRequestInfo;
@@ -193,4 +194,4 @@ public class SimpleExample {
         }
         return returnMetaData;
     }
-}
+}*/
